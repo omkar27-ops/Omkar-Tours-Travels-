@@ -1,5 +1,5 @@
-import React from 'react';
-import { Phone, Calendar, Check } from 'lucide-react';
+
+import { Phone, Calendar } from 'lucide-react';
 
 const Hero = () => {
     return (
